@@ -1,1 +1,1 @@
-# This is my SNS app README
+# This is my SNS application README
