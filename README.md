@@ -1,1 +1,1 @@
-# This is my SNS application README
+# This is my SNS application backend
